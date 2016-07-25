@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
     <head>
 
-        <title>FlexyCard HTML5 Responsive vCard Template - FlexyCodes Themes</title>
+        <title>Basthian Matthews S. - Resumen/CV</title>
 
         <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -167,7 +167,7 @@
                                                 <div class='col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2'>
                                                 <a href="https://www.facebook.com/mortSoudain" target="_blank"><i class="fa fa-facebook"></i></a>
                                                 <a href="https://twitter.com/mortSoudain" target="_blank"><i class="fa fa-twitter"></i></a>
-                                                <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                                                <a href="https://www.linkedin.com/in/basthian-matthews-sanhueza-458894125" target="_blank"><i class="fa fa-linkedin"></i></a>
                                                 </div>
                                                 </div>
 
@@ -310,9 +310,9 @@
                                                     <div class="col-md-6 profile-r">
 
                                                         <div class="cycle-slideshow">
-                                                            <img src="http://placehold.it/348x456" alt="" />
-                                                            <img src="http://placehold.it/348x456" alt="" />
-                                                            <img src="http://placehold.it/348x456" alt="" />
+                                                            <img class='img-thumbnail' src="images/aboutPhotos/cantar-compressor.jpg" alt="" />
+                                                            <img class='img-thumbnail' src="images/aboutPhotos/snow.jpg" alt="" />
+                                                            <img class='img-thumbnail' src="images/aboutPhotos/ascii.jpg" alt="" />
                                                         </div>
 
                                                     </div>
