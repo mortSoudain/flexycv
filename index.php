@@ -120,15 +120,15 @@
 
                                             <div class="image-holder one" id="pic_prof_1"  style="display:block">
 
-                                                <img class="head-image up circle" src="images/profilePic/1.jpg" width="150" height="150" alt="" />
-                                                <img class="head-image up-left circle" src="images/profilePic/2.jpg" width="150" height="150" alt="" />
-                                                <img class="head-image left circle" src="images/profilePic/3.jpg" width="150" height="150" alt="" />
-                                                <img class="head-image down-left circle" src="images/profilePic/4.jpg" width="150" height="150" alt="" />
-                                                <img class="head-image down circle" src="images/profilePic/5.jpg" width="150" height="150" alt="" />
-                                                <img class="head-image down-right circle" src="images/profilePic/6.jpg" width="150" height="150" alt="" />
-                                                <img class="head-image right circle" src="images/profilePic/7.jpg" width="150" height="150" alt="" />
-                                                <img class="head-image up-right circle" src="images/profilePic/8.jpg" width="150" height="150" alt="" />
-                                                <img class="head-image front circle" src="images/profilePic/9.jpg" width="150" height="150" alt="" />
+                                                <img class="head-image up circle" src="images/profilePic/1-compressor.jpg" width="150" height="150" alt="" />
+                                                <img class="head-image up-left circle" src="images/profilePic/2-compressor.jpg" width="150" height="150" alt="" />
+                                                <img class="head-image left circle" src="images/profilePic/3-compressor.jpg" width="150" height="150" alt="" />
+                                                <img class="head-image down-left circle" src="images/profilePic/4-compressor.jpg" width="150" height="150" alt="" />
+                                                <img class="head-image down circle" src="images/profilePic/5-compressor.jpg" width="150" height="150" alt="" />
+                                                <img class="head-image down-right circle" src="images/profilePic/6-compressor.jpg" width="150" height="150" alt="" />
+                                                <img class="head-image right circle" src="images/profilePic/7-compressor.jpg" width="150" height="150" alt="" />
+                                                <img class="head-image up-right circle" src="images/profilePic/8-compressor.jpg" width="150" height="150" alt="" />
+                                                <img class="head-image front circle" src="images/profilePic/9-compressor.jpg" width="150" height="150" alt="" />
 
                                             </div>
 
@@ -206,9 +206,9 @@
                                                 <i class="fa fa-envelope icon_menu"></i> 
                                             </li>
 
-                                            <!-- frame oculto del pdf a imprimir -->
+                                            <!-- frame oculto del pdf a imprimir 
 
-                                            <iframe id="iFramePdf" src="uploads/Curriculum_Basthian_Matthews.pdf" style="display:none;"></iframe>
+                                            <iframe id="iFramePdf" src="uploads/Curriculum_Basthian_Matthews.pdf" style="display:none;"></iframe>-->
 
                                             <!-- boton y funcion que imprimen el pdf -->
 
