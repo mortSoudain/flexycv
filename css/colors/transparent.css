@@ -1,0 +1,225 @@
+/* ========================================================================================= */
+/* ============================= Transparent hsla(0, 0%, 0%, 0.4) ========================== */
+/* ========================================================================================= */
+
+.btn-primary {
+    background: hsla(0, 0%, 0%, 0.5);
+}
+.btn-primary:hover {
+    background: hsla(0, 0%, 0%, 0.5);
+}
+a {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+.icon_menu {
+    background: #fff !important;
+    color: hsla(0, 0%, 0%, 0.5);
+}
+.icon_menu_active, .icon_menu_hover {
+    background: hsla(0, 0%, 0%, 0.5) !important;
+    color: #fff !important;
+    transition-property: background-color;
+    transition-duration: 0.3s;
+    transition-timing-function: linear;
+}
+.mCSB_dragger_bar {
+    background: hsla(0, 0%, 0%, 0.5) !important;
+}
+#style-2::-webkit-scrollbar-thumb {
+    background-color:hsla(0, 0%, 0%, 0.5);
+}
+.span-info {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+#contactform .submit:hover, #comment_form .submit:hover {
+    webkit-filter: brightness(98%) !important;
+}
+#profile .col-md-5 h2, #profile .col-md-5 h4, #resume .col-md-6 p, #resume .col-md-6 span.duration {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+#resume .resume-left ul li h5 {
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.5);
+}
+.attributes span.glyphicon, .attributes h6 {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+.blog-article a.read_m:hover {
+    border: 1px solid hsla(0, 0%, 0%, 0.5);
+    background-color: hsla(0, 0%, 0%, 0.5);
+}
+.border-list {
+    border: 1px solid hsla(0, 0%, 0%, 0.5);
+}
+.content-post h1 {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+a.readmore:hover, a.readmore:focus, a.readmore:active {
+    border: 1px solid hsla(0, 0%, 0%, 0.5);
+    background-color: hsla(0, 0%, 0%, 0.5);
+}
+.border-list {
+    border: 1px solid hsla(0, 0%, 0%, 0.5);
+}
+.content-post h1 {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+a.readmore:hover, a.readmore:focus, a.readmore:active {
+    border: 1px solid hsla(0, 0%, 0%, 0.5);
+    background-color: hsla(0, 0%, 0%, 0.5);
+}
+.ch-info-prof {
+    background: rgba(0, 255, 15, 1.0);
+}
+#profile .col-md-6 h1 {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+.download:hover span, .download:focus span {
+    background: hsla(0, 0%, 0%, 0.5);
+}
+.download span::before {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+.download span, .ch-info .ch-info-back {
+    background: hsla(0, 0%, 0%, 0.5);
+}
+.resp-tabs-container h1 {
+    color: hsla(0, 0%, 0%, 0.5) !important;
+    background: url(../../images/arrows-h3/arrow-dark.png) no-repeat 0px 3px;
+}
+
+@media screen and (max-width:540px) {
+    .content-inner {
+        border-top: 5px solid hsla(0, 0%, 0%, 0.5);
+    }
+}
+#contactform .submit, #comment_form .submit {
+    background-color: hsla(0, 0%, 0%, 0.5);
+}
+#profile .about i.glyphicon, #profile .about label {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+#section-title, #categories_sidebar ul.categories li a:hover {
+    background: hsla(0, 0%, 0%, 0.5);
+}
+#tags .tags_sidebar .tags-list li {
+    border: 1px solid hsla(0, 0%, 0%, 0.5);
+    color: hsla(0, 0%, 0%, 0.5);
+}
+#tags .tags_sidebar .tags-list li a {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+#tags .tags_sidebar .tags-list li:hover {
+    background: hsla(0, 0%, 0%, 0.5);
+}
+h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
+    border: 1px solid hsla(0, 0%, 0%, 0.5) !important;
+}
+@media only screen and (max-width: 800px) {
+    .icon_menu_active, .icon_menu_hover {
+        background: #fff !important;
+        color: hsla(0, 0%, 0%, 0.5) !important;
+        transition-property: background-color;
+        transition-duration: 0.3s;
+        transition-timing-function: linear;
+    }
+    h2.resp-accordion {
+        background: hsla(0, 0%, 0%, 0.5)  !important;
+    }
+    h2.resp-accordion:hover {
+        background: hsla(0, 0%, 0%, 0.5) !important;
+    }
+    h2.resp-tab-active {
+        background: hsla(0, 0%, 0%, 0.5) !important;
+    }
+}
+.title_content:after, .icon_content {
+    background: hsla(0, 0%, 0%, 0.5);
+}
+.text_content {
+    color: hsla(0, 0%, 0%, 0.5);
+}
+.panel-default>.panel-heading {
+    color: #fff;
+    background-color: hsla(356, 100%, 45%, 1.0);
+}
+.nbs-flexisel-inner {
+    border: 5px solid hsla(0, 0%, 0%, 0.5);
+}
+#nb_post, .reply, .tag, .info-post i.glyphicon, .info i.glyphicon, i.fa-quote-left {
+    color: hsla(0, 0%, 0%, 0.5) !important;
+}
+.modal-header {
+    background: hsla(0, 0%, 0%, 0.5);
+}
+.skillbar-title, .skillbar-bar {
+    background: hsla(35, 100%, 50%, 1.0);
+}
+.portfolio .label-bg, #filters li span.active {
+    background: hsla(0, 0%, 0%, 0.5);
+}
+.portfolio .label-bg, #filters li span:hover  {
+    background: hsla(222, 100%, 25%, 1.0);
+    -webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+}
+#sidebar-right .search-blog i, #sidebar-left .search-blog i {
+    background: hsla(0, 0%, 0%, 0.5);
+}
+.icon-switcher {	
+    color: hsla(0, 0%, 0%, 0.5) !important;
+}
+.resp-tabs-list li {
+    background: hsla(0, 0%, 0%, 0.5);
+    color: #fff;
+}
+#services .pack-service .service-icon i {
+    border: 3px solid hsla(356, 100%, 45%, 1.0);
+    color: hsla(356, 100%, 45%, 1.0);
+    background: #fff;
+}
+#services .pack-service:hover .service-icon i {
+    background: hsla(356, 100%, 45%, 1.0);
+}
+.widget-profil{
+    background: hsla(0, 0%, 0%, 0.5);   
+}
+.widget-profil .head-image{
+    border: 10px solid hsla(0, 0%, 40%, 1.0);
+}
+.widget-profil .circle-img {
+    border: 10px solid hsla(0, 0%, 40%, 1.0);
+}
+.widget-profil  h1 {
+    color:#fff;
+}
+.widget-profil  h4 {
+    color:#fff; 
+}
+.widget-profil  h6 {
+    color:#fff;
+}
+.widget-profil  p {
+    color:#fff !important;    
+}
+.widget-profil #profile_desc {
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+#profile_social a:hover {
+    color : hsla(0, 0%, 0%, 0.5);
+}
+#profile_social a{
+    background-color: hsla(0, 0%, 0%, 0.5);
+}
+#blog .post_media {
+    border-top: 5px solid hsla(0, 0%, 0%, 0.5);
+}
+#blog .post_media  .post-format-icon {
+    background: hsla(0, 0%, 0%, 0.5);
+}
+.reference span {
+    color : hsla(0, 0%, 0%, 0.5);
+}
+
