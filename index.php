@@ -276,7 +276,7 @@
                                                             <li>
                                                                 <i class="glyphicon glyphicon-globe"></i>
                                                                 <label>Sitio Web</label>
-                                                                <span class="value"><a href="#" target="_blank">www.basthian-matthews.com</a></span>
+                                                                <span class="value"><a href="http://www.basthian-matthews.esy.es" target="_blank">www.basthian-matthews.esy.es</a></span>
                                                                 <div class="clear"></div>
                                                             </li>
 
@@ -867,7 +867,7 @@
                                                                         <li><span class="span-info"><i class="glyphicon glyphicon-map-marker"></i> Dirección:</span> Manquimávida #385 Chiguayante, Concepción.<br /><br /></li>
                                                                         <li><span class="span-info"><i class="glyphicon glyphicon-envelope"></i> Email:</span> basthian.matthews@gmail.com</li>
                                                                         <li><span class="span-info"><i class="glyphicon glyphicon-phone"></i> Teléfono:</span> +569 9099-6305</li>
-                                                                        <li><span class="span-info"><i class="glyphicon glyphicon-globe"></i> Website:</span> www.basthian-matthews.com</li>
+                                                                        <li><span class="span-info"><i class="glyphicon glyphicon-globe"></i> Website:</span><a href="http://www.basthian-matthews.esy.es">  www.basthian-matthews.esy.es</a></li>
                                                                     </ul>
                                                                 </div>
                                                                 <!-- /Contact Info -->

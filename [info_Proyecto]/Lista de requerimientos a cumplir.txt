@@ -1,0 +1,8 @@
+-Cambiar color de fondo de la pestaña contactos a blanco transparante como las demás
+-Cambiar color botón enviar
+-Cambiar color de download currículum
+-Hacer y ordenar mis GitHub, SoundCoud y LinkedIn.
+-Suavizar transiciones del cambio de fotoperfil
+-Añadir animacion de salida a las pestañas
+-Hacer que el scroll funcione fuera de la pestaña (dentro de todo el sitio)
+-Cambiar animacion de carga (spinner.gif)

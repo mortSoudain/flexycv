@@ -3,7 +3,7 @@
 $TO = 'basthian.matthews@gmail.com';
 
 //message the subject of the email
-$SUBJECT = 'Nuevo Mensaje en basthian-matthews.cl';
+$SUBJECT = 'Nuevo Mensaje en basthian-matthews.esy.es';
 $MSG_SEND_ERROR = 'Disculpe, no pudimos enviar el mensaje.';
 
 // Sender Info
