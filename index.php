@@ -12,6 +12,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
         <meta name="description" content="Vcard/Resumen!"/>
+        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+
 
         <!-- CSS | bootstrap -->
         <!-- Credits: http://getbootstrap.com/ -->
@@ -801,12 +803,13 @@
                                                         <div class="portfolio pagWEB" data-cat="pagWEB">	
                                                             <!-- .portfolio-wrapper -->
                                                             <div class="portfolio-wrapper">		
-                                                                <a href="http://www.youtube.com/watch?v=c9MnSeYYtYY" rel="portfolio">
+                                                                <a href="images/portafolio/1.png" rel="portfolio" title="Vistita el proyecto en :
+                                                                    <a href='http://vacaciones-cascadas.esy.es/' target='_blank'>http://vacaciones-cascadas.esy.es/</a>">
 
-                                                                    <img src="http://placehold.it/600x849" alt="Visual Infography" />
+                                                                    <img src="images/portafolio/1_thumbnail.png" alt="Visual Infography" />
                                                                     <div class="label">
                                                                         <div class="label-text">
-                                                                            <a class="text-title">Página de currículum</a>
+                                                                            <a class="text-title">Arriendo Cabaña Cascadas</a>
                                                                             <span class="text-category">Página WEB</span>
                                                                         </div>
                                                                         <div class="label-bg"></div>

@@ -8,8 +8,8 @@ jQuery(document).ready(function($) {
 	
 	/*Page Preloading*/
 	$(window).load(function() {
-	$('#spinner').fadeOut(5000);
-	$('#preloader').delay(5000).fadeOut('slow');
+	//$('#spinner').fadeOut(5000);
+	$('#preloader').delay(3000).fadeOut('slow');
 	$('.wrapper').fadeIn(200);
 	});
 	
