@@ -154,7 +154,7 @@
                                             <!-- Profile Description -->
                                             <div id="profile_desc">
                                                 <p>
-                                                    Desarrollador de sistemas web. Músico vocalista/guitarrista. Internet de las cosas/Arduino/Raspberry.
+                                                    Desarrollador de sistemas web.<br>Músico vocalista/guitarrista.<br>Internet de las cosas/Arduino/Raspberry.
                                                 </p>
                                                 <p>
                                                 </p>
@@ -804,7 +804,7 @@
                                                             <!-- .portfolio-wrapper -->
                                                             <div class="portfolio-wrapper">		
                                                                 <a href="images/portafolio/1.png" rel="portfolio" title="Vistita el proyecto en :
-                                                                    <a href='http://vacaciones-cascadas.esy.es/' target='_blank'>http://vacaciones-cascadas.esy.es/</a>">
+                                                                    <a href='http://arriendocabañacascadas.cl/' target='_blank'>http://arriendocabañacascadas.cl/</a>">
 
                                                                     <img src="images/portafolio/1_thumbnail.png" alt="Visual Infography" />
                                                                     <div class="label">
